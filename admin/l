@@ -1,0 +1,1 @@
+<a href="create-paper.php?sid=<?php echo $rows['sid'];?>" target="_blank">
